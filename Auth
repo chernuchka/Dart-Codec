@@ -5,10 +5,6 @@ import 'dart:io';icode.com/albums/1'),
     headers: {
       HttpHeaders.authorizationHeader: 'Basic your_api_token_here',
     },
-  );
-  final responseJson = jsonDecode(response.body);
-
-  return Album.fromJson(responseJson);
 }
 
 class Album {
