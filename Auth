@@ -1,8 +1,7 @@
 import 'dart:async';
 import 'dart:convert';aders to the backend.
     headers: {
-      HttpHeaders.authorizationHeader: 'Basic your_api_token_here',
-    },
+      HttpHeaders.authorizationHeader: 'Basic your_api_to
 }
 
 class Album {
