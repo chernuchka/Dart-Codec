@@ -1,11 +1,7 @@
 import 'dart:async';
 import 'dart:convert';aders to the backend.
     headers: {
-      HttpHeaders.authorizationHeader: 'Basic your_api_to
-}
-
-class Album {
-  final int userId;
+      HttpHeaders.authorizationHeader: 'Basic your
   final int id;
   final String title;
 
