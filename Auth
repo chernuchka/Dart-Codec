@@ -12,10 +12,6 @@ import 'dart:convert';aders to the backend.
 
   factory Album.fromJson(Map<String, dynamic> json) {
     return Album(
-      userId: json['userId'],
-      id: json['id'],
-      title: json['title'],
-    );
   }
 }
 import 'package:flutter/material.dart';
