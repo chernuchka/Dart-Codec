@@ -9,13 +9,7 @@ import 'dart:convert';aders to the backend.
     required this.id,
     required this.title,
   });
-
-  factory Album.fromJson(Map<String, dynamic> json) {
-    return Album(
-  }
-}
-import 'package:flutter/material.dart';
-import 'package:web_socket_channel/web_socket_channel.dart';
+3
 
 void main() => runApp(const MyApp());
 
