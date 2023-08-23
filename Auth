@@ -8,12 +8,6 @@ import 'dart:convert';aders to the backend.
   const Album({
     required this.id,
     required this.title,
-  });
-3
-
-void main() => runApp(const MyApp());
-
-class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   @override
