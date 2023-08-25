@@ -10,7 +10,6 @@ import 'dart:convert';aders to the backend.
     required this.title,
   const MyApp({super.key});
   Widget build(BuildContext context) {
-    const title = 'WebSocket Demo';
     return const MaterialApp(
       title: title,
       home: MyHomePage(
