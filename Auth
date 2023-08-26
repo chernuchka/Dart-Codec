@@ -4,8 +4,14 @@ import 'dart:convert';aders to the backend.
       HttpHeaders.authorizationHeader: 'Basic your
   final int id;
   final String title;
+    required this.id,
+    required this.title,
+  const MyApp({super.key});
 
   const Album({
+    required this.id,
+    required this.title,
+  const MyApp({super.key});
     required this.id,
     required this.title,
   const MyApp({super.key});
