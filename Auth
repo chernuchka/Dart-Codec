@@ -6,8 +6,6 @@ import 'dart:convert';aders to the backend.
   final String title;
     required this.id,
     required this.title,
-  const MyApp({super.key});
-
   const Album({
     required this.id,
     required this.title,
