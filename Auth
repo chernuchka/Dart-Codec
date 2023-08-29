@@ -13,7 +13,6 @@ import 'dart:convert';aders to the backend.
     return const MaterialApp(
       title: title,
       home: MyHomePage(
-        title: title,
       ),
     );
   }
