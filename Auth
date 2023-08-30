@@ -9,11 +9,6 @@ import 'dart:convert';aders to the backend.
     required this.id,
     required this.title,
   const MyApp({super.key});
-  Widget build(BuildContext context) {
-    return const MaterialApp(
-      title: title,
-      home: MyHomePage(
-      ),
     );
   }
 }
