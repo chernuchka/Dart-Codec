@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:convert';aders to the backend.
     headers: {
-      HttpHeaders.authorizationHeader: 'Basic your
+      HttpHeaders.authorizationHeade 'Basic your
   const Album({
     required this.id,
     required this.title,
