@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:convert';aders to the bac1
     headers: {
-      HttpHeaders.authorizationHeade 'B
+      HttpHeaders.authorizationHeade 
     required this.id,
     required this.title,
   const MyApp({super.key});
