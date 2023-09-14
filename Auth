@@ -14,7 +14,7 @@ class MyHomePage extends StatefulWidget {
     required this.title,
   });
 
-  final String title;
+  final String tit
 
   @override
   State<MyHomePage> createState() => _MyHomePageState();
