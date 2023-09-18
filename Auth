@@ -12,7 +12,7 @@ class MyHomePage extends StatefulWidget {
   const MyHomePage({
     super.k
     required this.title,
-  });
+  
 
   final String tit
 
