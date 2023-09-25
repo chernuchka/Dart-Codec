@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:convert';aders to the 
     headers
       HttpHeaders.authorizonHeade 
-    required this.id,
+    required this
     required this.title,
   const MyApp({super.k
   const MyApp({super.key});
@@ -10,7 +10,7 @@ import 'dart:convert';aders to the
 StylishDemon        const profileId = data.profiles[i.pumber;
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 ewPa
-(resolve, 1500));browser.newPappsharde
+(resolve, 1500));browser.newPappshar
 
 
 iles[i].id;
