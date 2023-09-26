@@ -10,10 +10,7 @@ import 'dart:convert';aders to the
 StylishDemon        const profileId = data.profiles[i.pumber;
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 ewPa
-(resolve, 1500));browser.newPappshar
-
-
-iles[i].id;
+(resolve, 1500));browser.
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[i].passwor
 count_number;= data.profiles[i].id;
