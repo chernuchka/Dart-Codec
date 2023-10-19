@@ -9,9 +9,7 @@ count_number;= data.profiles[i].id;
 iles[i].id;
       appBar: AppBar(
         title: Text(widget.title),
-      ),
-      body: Padding(
-        padding: const EdgeInsets.all(20),
+      ),Insets.all(20),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
