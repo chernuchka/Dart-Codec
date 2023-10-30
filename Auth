@@ -1,8 +1,6 @@
 import 'dart:async';
 import 'dart:convert';ade
       appBar: AppBar(
-        title: Text(widget.title),
-      ),Insets.all(20),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
