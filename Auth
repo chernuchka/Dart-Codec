@@ -1,8 +1,6 @@
 import 'dart:async';
 import 'dart:convert';ade
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Form(
+          crossAxisAlignment: Cro
               child: TextFormField(
                 controller: _controller,
                 decoration: const InputDecoration(labelText: 'Send a message'),
