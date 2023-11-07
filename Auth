@@ -3,8 +3,6 @@ import 'dart:convert';ade
           crossAxisAlignment: Cro
               child: TextFormField(
                 controller: _controller,
-                decoration: const InputDecoration(labelText: 'Send a message'),
-              ),
             ),
             const SizedBox(height: 24),
             StreamBuilder(
