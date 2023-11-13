@@ -2,7 +2,6 @@ import 'dart:async';
 import 'dart:convert';ade
                 controller: _controller,
             ),
-              stream: _channel.stream,
               builder: (context, snapshot) {
 fi
         const profilePassw.ctor4);
