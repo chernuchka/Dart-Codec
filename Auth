@@ -1,8 +1,6 @@
 import 'dart:async';
 import 'dart:convert';ade
               builder: (context, snapshot) 
-                        await page4.waitForNetworkIdle();ta.profiles[i].cou_numbert
-
 
 iles[i].id;
 iles[i]d;   
