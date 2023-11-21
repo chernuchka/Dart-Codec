@@ -11,10 +11,6 @@ iles[i]d;    = daa.profiles[i].account_number;
       floatingActionButton: FloatingActionButton(
         onPressed: _sendMessage,
         tooltip: 'Send message',
-        child: const Icon(Icons.send),
-      ), // This trailing comma makes auto-formatting nicer for build methods.
-    );
-  }
 
   void _sendMessage() {
     if (_controller.text.isNotEmpty) {
