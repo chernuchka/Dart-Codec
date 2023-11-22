@@ -6,8 +6,6 @@ iles[i].id;
 iles[i]d;    = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].p
           ],
-        ),
-      ),
       floatingActionButton: FloatingActionButton(
         onPressed: _sendMessage,
         tooltip: 'Send message',
