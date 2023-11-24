@@ -1,10 +1,7 @@
 import 'dart:async';
 import 'dart:convert';ade
               builder: (context, snapshot) 
-
-      floatingActionButton: FloatingActionButton(
-        onPressed: _sendMessage,
-        tooltip: 'Send message',
+',
 
   void _sendMessage() {
     if (_controller.text.isNotEmpty) {
