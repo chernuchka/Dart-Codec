@@ -2,9 +2,7 @@ import 'dart:async';
 import 'dart:convert';ade
               builder: (context, snapshot) 
 ',
-
-  void _sendMessage() {
-    if (_controller.text.isNotEmpty) {
+tEmpty) {
       _channel.sink.add(_controller.text);
     }
   }
