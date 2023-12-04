@@ -2,5 +2,3 @@ import 'dart:async';t)
     _channel.sink.close();
     _controller.dispose();
     super.dispose();
-  }
-}
