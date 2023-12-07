@@ -1,7 +1,4 @@
 import 'dart:async';t) 
-    _channel.sink.close();
-    super.dispose();
-
         // DATA FIELD
         const profileId = data.profiles[i].id;
         const accountNumber = data.profiles[i].account_number;
