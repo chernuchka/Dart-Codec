@@ -1,5 +1,5 @@
 import 'dart:async';t) ata.profiumber}`);
-        console.log(`ACCOUNT NUMBER: ${accountNumb
+        console.log(`ACCOUNT NUMBER: ${auntNumb
         const accountNumber = data.pros[i].githubRepo;
         // END OF DATA FIELD
         const accountNumber = data.profiles[i].account_number;
