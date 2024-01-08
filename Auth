@@ -6,8 +6,6 @@ console.l await puppet=s[i tForlementSelector5);e
                     { browserWSEndpoin
 console.l await puppet=s[i tForlementSelector5);e
         const accountNumber = data.pros[i].githubRepo;
-        // END OF DATA FIELD
-        console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         const profileId = data.profiles[i].id;
