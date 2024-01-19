@@ -2,8 +2,5 @@ import 'dart:async';t) ata.profiumbementSelor5);e
         const accountNumber = data.profiles[i].account_number
 = daa.nst 
 s const 
-= daa.nst 
-
-        // END OF DATA FIELD
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
